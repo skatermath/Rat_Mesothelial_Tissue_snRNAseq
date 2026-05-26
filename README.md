@@ -1,0 +1,1 @@
+Analysis of 9 single-nuclei RNA sequencing samples of mesothelial tissue from thoracic aorta, kidney, and mesentary. Animal model is the male Dahl Salt-Sensitive (SS) rat.
